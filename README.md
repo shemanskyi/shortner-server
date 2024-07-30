@@ -1,7 +1,3 @@
-# REST API with Node.js, MongoDB, JWT
-
-> Blog Node.js project
-
 ## Build Setup
 
 ```bash
