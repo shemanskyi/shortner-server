@@ -1,4 +1,5 @@
 const {tryCatch} = require("../utils/tryCatch");
+
 const Link = require("../models/Link");
 
 exports.getLinks = tryCatch(async (req, res) => {

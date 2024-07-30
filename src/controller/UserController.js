@@ -1,4 +1,5 @@
 const User = require('../models/User');
+
 const { tryCatch } = require('../utils/tryCatch');
 
 exports.getUsers = tryCatch(async (req, res) => {

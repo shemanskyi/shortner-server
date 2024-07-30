@@ -8,6 +8,7 @@ const {
     updateLink,
     deleteLink
 } = require('../controller/LinksController');
+
 const { authenticate } = require('../middleware/auth');
 
 router.get('/links', getLinks);

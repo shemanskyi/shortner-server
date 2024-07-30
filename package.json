@@ -1,7 +1,7 @@
 {
   "name": "shortner-server",
   "version": "1.0.0",
-  "description": "",
+  "description": " ",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --exec ./node_modules/.bin/babel-node src/index.js",

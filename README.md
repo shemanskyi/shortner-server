@@ -165,11 +165,3 @@ POST admin/login
 }
 
 ```
-
-### Admin Authorization
-
-```
-
-GET admin/users
-
-```

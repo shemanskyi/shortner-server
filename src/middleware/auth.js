@@ -1,4 +1,5 @@
 const jwt = require('jsonwebtoken');
+
 const { tryCatch } = require('../utils/tryCatch');
 
 exports.authenticate = tryCatch(async (req, res, next) => {
